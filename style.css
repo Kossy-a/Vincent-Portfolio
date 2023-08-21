@@ -241,19 +241,6 @@ nav ul li a:hover::after{
     border: none;
 }
 
-.mybuttonsss{
-    padding: 1rem 1rem 1rem 1rem;
-    border-radius: 0.625rem;
-    color: white;
-    background-color: #e47207;
-    cursor: pointer;
-    height: 3.75rem;
-    width: 9.75rem;
-    border: none;
-    margin-top: 30px;
-}
-
-
 .mybuttons{
     display: flex;
     justify-content: space-between;
@@ -468,18 +455,6 @@ nav .fa-solid{
         font-size: 16px;
         margin-right: 20px;
     }
-
-    .mybuttonsss{
-            padding: 14px 14px 14px 14px;
-            border-radius: 0.625rem;
-            color: white;
-            background-color: #e47207;
-            cursor: pointer;
-            height: 20px;
-            width: 14px;
-            border: none;
-            margin-top: 30px;
-}
 
     .contact-left, .contact-right{
         flex-basis: 100%;
